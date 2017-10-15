@@ -1,7 +1,6 @@
 package org.yoooo.se1;
 
-import java.util.LinkedList;
-import java.util.Map;
+import java.util.*;
 
 /**
  * A set of paths starting from a single source.

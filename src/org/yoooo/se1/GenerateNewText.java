@@ -1,7 +1,6 @@
 package org.yoooo.se1;
 
-import java.util.List;
-import java.util.Random;
+import java.util.*;
 
 public class GenerateNewText {
     /**
