@@ -3,6 +3,7 @@ package org.yoooo.se1;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.*;
 
 /**
  * A GraphPath represents a path in a graph.
