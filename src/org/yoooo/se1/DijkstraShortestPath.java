@@ -1,10 +1,6 @@
 package org.yoooo.se1;
 
-import java.util.Comparator;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.PriorityQueue;
-import java.util.Set;
+import java.util.*;
 
 /**
  * A implementation of Dijkstra's shortest path algorithm.
